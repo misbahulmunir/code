@@ -1,0 +1,4 @@
+c:\users\metromaniax\documents\visual studio 2010\Projects\Kruskal\Kruskal\bin\Debug\Kruskal.exe
+c:\users\metromaniax\documents\visual studio 2010\Projects\Kruskal\Kruskal\bin\Debug\Kruskal.pdb
+c:\users\metromaniax\documents\visual studio 2010\Projects\Kruskal\Kruskal\obj\x86\Debug\Kruskal.exe
+c:\users\metromaniax\documents\visual studio 2010\Projects\Kruskal\Kruskal\obj\x86\Debug\Kruskal.pdb
